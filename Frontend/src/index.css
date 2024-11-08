@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Serve para ocultar a barra de scroll dos albuns */
+::-webkit-scrollbar {
+    display: none;
+}
